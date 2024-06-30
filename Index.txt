@@ -1,1 +1,2 @@
 Hello, how may I assist you?
+Please teach me git
